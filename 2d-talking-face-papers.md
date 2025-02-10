@@ -12,9 +12,21 @@ UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensi
 
 MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation;  [arXiv 2025](https://arxiv.org/abs/2501.01808); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145044690); [zhihu](https://zhuanlan.zhihu.com/p/17469481433); 
 
+VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior; [3DV 2025](https://arxiv.org/abs/2312.01841); [ProjectPage](https://humanaigc.github.io/vivid-talk/); [Code](https://github.com/HumanAIGC/VividTalk);
+
 # 2023
 
 SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation; [CVPR 2023](https://arxiv.org/abs/2211.12194); [Code](https://github.com/Winfredy/SadTalker); [ProjectPage](https://sadtalker.github.io/); [CSDN](https://mp.csdn.net/mp_blog/creation/success/145406735); [zhihu](https://zhuanlan.zhihu.com/p/20854069909);
+
+# 2022
+
+EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model; [SIGGRAPH 2022](https://arxiv.org/abs/2205.15278); [Code](https://github.com/jixinya/EAMM); [ProjectPage](https://jixinya.github.io/projects/EAMM/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145559700); [zhihu](https://zhuanlan.zhihu.com/p/22874629894); 
+
+# 2021
+
+Audio-Driven Emotional Video Portraits; [CVPR 2021](https://arxiv.org/abs/2104.07452); [Code](https://github.com/jixinya/EVP/); [ProjectPage](https://jixinya.github.io/projects/evp/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145559729); [zhihu](https://zhuanlan.zhihu.com/p/22875108882); 
+
+Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation; [ACM TOG 2021](https://arxiv.org/abs/2109.10595); [Code](https://github.com/YuanxunLu/LiveSpeechPortraits);
 
 # 2020
 
