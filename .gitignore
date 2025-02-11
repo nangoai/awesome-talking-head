@@ -1,6 +1,0 @@
-# 忽略文件: todo-list.md, .gitignore, .DS_Store
-todo-list.md
-.gitignore
-
-# 或略 .idea 文件夹
-.idea/
