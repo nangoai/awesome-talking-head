@@ -2,13 +2,13 @@
 
 欢迎来到 awesome-talking-head! 这是一个专注于数字人领域的开源仓库，旨在为对数字人技术感兴趣的研究者、开发者和爱好者提供一个集中的资源收集与分享平台。本仓库收录与整理了以下内容：2D/3D数字人生成与驱动领域的前沿文章、数字人研究使用的相关数据集、以及与人脸相关的工具库。
 
-2D数字人相关文章：
+2D数字人相关文章：[2d-talking-head-papers](https://github.com/nangoai/awesome-talking-head/blob/main/2d-talking-head-papers.md)
 
-3D数字人相关文章：
+3D数字人相关文章：[3d-talking-head-papers](https://github.com/nangoai/awesome-talking-head/blob/main/3d-talking-head-papers.md)
 
-数据集：
+数据集：[datasets](https://github.com/nangoai/awesome-talking-head/blob/main/datasets.md)
 
-工具：
+工具：[tools](https://github.com/nangoai/awesome-talking-head/blob/main/tools.md)
 
 ## 贡献指南
 
