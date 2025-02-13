@@ -1,5 +1,7 @@
 # 2025
 
+Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion; [arXiv 2025](https://arxiv.org/abs/2502.07203); [Project](https://playmate111.github.io/); 
+
 OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models; [arXiv 2025](https://arxiv.org/abs/2502.01061); [Project](https://omnihuman-lab.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145502287); 
 
 SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation; [arXiv 2025](https://arxiv.org/pdf/2501.14646); [Project](https://syncanimation.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145406554); 
@@ -17,6 +19,20 @@ VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prio
 INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations; [arXiv 2025](https://arxiv.org/abs/2412.04037); [Project](https://grisoon.github.io/INFP/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144383953); 
 
 # 2024
+
+LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space; [arXiv 2024](https://arxiv.org/abs/2411.09268); [Project](https://peterfanfan.github.io/LES-Talker/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145016470); 
+
+Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation; [arXiv 2024](https://arxiv.org/abs/2412.00719); [Project](https://shaelynz.github.io/synergize-motion-appearance/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145016401); 
+
+VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization; [arXiv 2024](https://arxiv.org/abs/2412.09892); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144917517); 
+
+Real-time One-Step Diffusion-based Expressive Portrait Videos Generation; [arXiv 2024](https://arxiv.org/abs/2412.13479); [Project](https://guohanzhong.github.io/osalcm/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144917395); 
+
+PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation; [arXiv 2024](https://arxiv.org/abs/2412.07754); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144627851); 
+
+EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion; [arXiv 2024](https://arxiv.org/abs/2411.16726); [Project](https://emotivetalk.github.io/); 
+
+LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync; [arXiv 2024](https://arxiv.org/abs/2412.09262);  [Code](https://github.com/bytedance/LatentSync); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144568534); 
 
 LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis; [arXiv 2024](https://arxiv.org/abs/2411.16748); [Project](https://zhang-haojie.github.io/project-pages/letstalk.html); [Code](https://github.com/zhang-haojie/letstalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144567850); 
 
