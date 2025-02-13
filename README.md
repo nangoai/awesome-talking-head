@@ -23,3 +23,5 @@ Email: nangoai@163.com
 WeChat: nangoAI
 
 Knowledge Planet: https://t.zsxq.com/UWKEm
+
+CSDN: https://blog.csdn.net/a_d_i_d_a_s/category_12817028.html

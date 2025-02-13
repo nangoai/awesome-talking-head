@@ -1,6 +1,6 @@
 # 2025
 
-Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion; [arXiv 2025](https://arxiv.org/abs/2502.07203); [Project](https://playmate111.github.io/); 
+Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion; [arXiv 2025](https://arxiv.org/abs/2502.07203); [Project](https://playmate111.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145622964); 
 
 OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models; [arXiv 2025](https://arxiv.org/abs/2502.01061); [Project](https://omnihuman-lab.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145502287); 
 
@@ -30,7 +30,7 @@ Real-time One-Step Diffusion-based Expressive Portrait Videos Generation; [arXiv
 
 PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation; [arXiv 2024](https://arxiv.org/abs/2412.07754); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144627851); 
 
-EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion; [arXiv 2024](https://arxiv.org/abs/2411.16726); [Project](https://emotivetalk.github.io/); 
+EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion; [arXiv 2024](https://arxiv.org/abs/2411.16726); [Project](https://emotivetalk.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144627903); 
 
 LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync; [arXiv 2024](https://arxiv.org/abs/2412.09262);  [Code](https://github.com/bytedance/LatentSync); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144568534); 
 
@@ -46,7 +46,7 @@ TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Dif
 
 Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation; [arXiv 2024](https://arxiv.org/abs/2406.08801); [Project](https://fudan-generative-vision.github.io/hallo/#/); [Code](https://github.com/fudan-generative-vision/hallo); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/143418507); 
 
-EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions; [arXiv 2024](https://arxiv.org/abs/2402.17485); [Project](https://humanaigc.github.io/emote-portrait-alive/); [Code](https://github.com/HumanAIGC/EMO); 
+EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions; [arXiv 2024](https://arxiv.org/abs/2402.17485); [Project](https://humanaigc.github.io/emote-portrait-alive/); [Code](https://github.com/HumanAIGC/EMO); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145623045); 
 
 MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation; [arXiv 2024](https://arxiv.org/abs/2412.04448); [Project](https://memoavatar.github.io/); [Code](https://github.com/memoavatar/memo); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144384770); 
 
