@@ -20,6 +20,8 @@ INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations; [arXiv 2
 
 # 2024
 
+X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention; [SIGGRAPH 2024](https://arxiv.org/abs/2403.15931); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692176); 
+
 LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space; [arXiv 2024](https://arxiv.org/abs/2411.09268); [Project](https://peterfanfan.github.io/LES-Talker/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145016470); 
 
 Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation; [arXiv 2024](https://arxiv.org/abs/2412.00719); [Project](https://shaelynz.github.io/synergize-motion-appearance/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145016401); 
@@ -50,9 +52,11 @@ EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Vi
 
 MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation; [arXiv 2024](https://arxiv.org/abs/2412.04448); [Project](https://memoavatar.github.io/); [Code](https://github.com/memoavatar/memo); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/144384770); 
 
+LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control; [arXiv 2024](https://arxiv.org/abs/2407.03168); [Code](https://github.com/KwaiVGI/LivePortrait); [Project](https://liveportrait.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692217); 
+
 # 2023
 
-DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation; [CVPR 2023](https://arxiv.org/abs/2301.03786); [Project](https://sstzal.github.io/DiffTalk/); [Code](https://github.com/sstzal/DiffTalk); 
+DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation; [CVPR 2023](https://arxiv.org/abs/2301.03786); [Project](https://sstzal.github.io/DiffTalk/); [Code](https://github.com/sstzal/DiffTalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145643635); 
 
 SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation; [CVPR 2023](https://arxiv.org/abs/2211.12194); [Code](https://github.com/Winfredy/SadTalker); [Project](https://sadtalker.github.io/); [CSDN](https://mp.csdn.net/mp_blog/creation/success/145406735); 
 
@@ -61,6 +65,10 @@ SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven S
 EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model; [SIGGRAPH 2022](https://arxiv.org/abs/2205.15278); [Code](https://github.com/jixinya/EAMM); [Project](https://jixinya.github.io/projects/EAMM/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145559700); 
 
 Implicit Warping for Animation with Image Sets; [NeurIPS 2022](https://arxiv.org/abs/2210.01794); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/143261310); 
+
+Depth-Aware Generative Adversarial Network for Talking Head Video Generation; [CVPR 2022](https://arxiv.org/abs/2203.06605); [Project](https://harlanhong.github.io/publications/dagan.html); [Code](https://github.com/harlanhong/CVPR2022-DaGAN); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145691993); 
+
+Thin-Plate Spline Motion Model for Image Animation; [CVPR 2022](https://arxiv.org/abs/2203.14367); [Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692130); 
 
 # 2021
 
@@ -71,3 +79,5 @@ Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation; [ACM TOG
 # 2020
 
 A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild; [ACMMM 2020](https://arxiv.org/abs/2008.10010); [Code](https://github.com/Rudrabha/Wav2Lip); [Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/); [CSDN](https://mp.csdn.net/mp_blog/creation/success/145406697); 
+
+MakeItTalk: Speaker-Aware Talking-Head Animation; [SIGGRAPH Asia 2020](https://arxiv.org/abs/2004.12992); [Project](https://people.umass.edu/~yangzhou/MakeItTalk/); [Code](https://github.com/yzhou359/MakeItTalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692071); 
