@@ -1,5 +1,9 @@
 # 2025
 
+SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion; [arXiv 2025](https://arxiv.org/abs/2502.11515); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145739632); 
+
+SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers; [arXiv 2025](https://arxiv.org/abs/2502.10841); [Project](https://skyworkai.github.io/skyreels-a1.github.io/); [Code](https://github.com/SkyworkAI/SkyReels-A1); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145756041); 
+
 Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion; [arXiv 2025](https://arxiv.org/abs/2502.07203); [Project](https://playmate111.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145622964); 
 
 OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models; [arXiv 2025](https://arxiv.org/abs/2502.01061); [Project](https://omnihuman-lab.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145502287); 
