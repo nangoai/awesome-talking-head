@@ -24,7 +24,7 @@ INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations; [arXiv 2
 
 # 2024
 
-MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting; [arXiv 2024](https://arxiv.org/abs/2410.10122); [Code](https://github.com/TMElyralab/MuseTalk); 
+MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting; [arXiv 2024](https://arxiv.org/abs/2410.10122); [Code](https://github.com/TMElyralab/MuseTalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145817492); 
 
 X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention; [SIGGRAPH 2024](https://arxiv.org/abs/2403.15931); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692176); 
 
@@ -60,11 +60,11 @@ MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation; [arXiv 20
 
 LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control; [arXiv 2024](https://arxiv.org/abs/2407.03168); [Code](https://github.com/KwaiVGI/LivePortrait); [Project](https://liveportrait.github.io/); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692217); 
 
-Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation; [WACV 2024](https://arxiv.org/abs/2301.03396); [Project](https://mstypulkowski.github.io/diffusedheads/); [Code](https://github.com/MStypulkowski/diffused-heads); 
+Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation; [WACV 2024](https://arxiv.org/abs/2301.03396); [Project](https://mstypulkowski.github.io/diffusedheads/); [Code](https://github.com/MStypulkowski/diffused-heads); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145817639); 
 
 # 2023
 
-Identity-Preserving Talking Face Generation with Landmark and Appearance Priors; [CVPR 2023](https://arxiv.org/abs/2305.08293); [Code](https://github.com/Weizhi-Zhong/IP_LAP); 
+Identity-Preserving Talking Face Generation with Landmark and Appearance Priors; [CVPR 2023](https://arxiv.org/abs/2305.08293); [Code](https://github.com/Weizhi-Zhong/IP_LAP); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145817598); 
 
 DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation; [CVPR 2023](https://arxiv.org/abs/2301.03786); [Project](https://sstzal.github.io/DiffTalk/); [Code](https://github.com/sstzal/DiffTalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145643635); 
 
@@ -86,7 +86,7 @@ Audio-Driven Emotional Video Portraits; [CVPR 2021](https://arxiv.org/abs/2104.0
 
 Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation; [ACM TOG 2021](https://arxiv.org/abs/2109.10595); [Code](https://github.com/YuanxunLu/LiveSpeechPortraits); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145560915); 
 
-Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion; [IJCAI 2021](https://arxiv.org/abs/2107.09293); [Code](https://github.com/wangsuzhen/Audio2Head); 
+Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion; [IJCAI 2021](https://arxiv.org/abs/2107.09293); [Code](https://github.com/wangsuzhen/Audio2Head); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145817528); 
 
 # 2020
 
@@ -94,4 +94,4 @@ A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild; [ACM
 
 MakeItTalk: Speaker-Aware Talking-Head Animation; [SIGGRAPH Asia 2020](https://arxiv.org/abs/2004.12992); [Project](https://people.umass.edu/~yangzhou/MakeItTalk/); [Code](https://github.com/yzhou359/MakeItTalk); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145692071); 
 
-MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation; [ECCV 2020](https://wywu.github.io/projects/MEAD/support/MEAD.pdf); [Code](https://github.com/uniBruce/Mead); 
+MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation; [ECCV 2020](https://wywu.github.io/projects/MEAD/support/MEAD.pdf); [Code](https://github.com/uniBruce/Mead); [CSDN](https://blog.csdn.net/A_D_I_D_A_S/article/details/145817660); 
